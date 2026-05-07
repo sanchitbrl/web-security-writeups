@@ -100,7 +100,7 @@ THEN pg_sleep(5) ELSE NULL END--
 
 **Intruder results — character extraction in action:**
 
-![Burp Suite Intruder Results](SQLi.png)
+![Burp Suite Intruder Results](images/intruder-results.png)
 
 > Request 3 (payload `c`) shows a response time of **5269ms** — confirming `c` is the correct character at that position. All other payloads responded in ~200–500ms, well below the 5-second threshold.
 
