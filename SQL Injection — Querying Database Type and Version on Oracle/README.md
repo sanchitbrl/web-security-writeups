@@ -77,7 +77,7 @@ This appends a second result set to the original query, injecting the Oracle ver
 ## Script
 
 > Python automation script for this lab:
-![exploit.py](scripts/exploits.py)
+![exploit.py](Script/exploits.py)
 
 ---
 
@@ -85,6 +85,10 @@ This appends a second result set to the original query, injecting the Oracle ver
 
 > Burp Suite intercept and response screenshots:
 ![Burpsuit payload execution](images/Burpsuit_payload_execution.png)
+
+
+> Version Output:
+![Version output](images/Version_Output.png)
 
 ---
 
