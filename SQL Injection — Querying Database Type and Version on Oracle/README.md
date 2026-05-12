@@ -77,7 +77,7 @@ This appends a second result set to the original query, injecting the Oracle ver
 ## Script
 
 > Python automation script for this lab:
-![exploit.py](Script/exploits.py)
+[exploit.py](Script/exploits.py)
 
 ---
 
