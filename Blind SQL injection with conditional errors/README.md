@@ -142,7 +142,7 @@ This is automated using Burp Suite Intruder (Cluster Bomb attack) or the Python 
 
 ## Automation Script
 
-[`blind_sqli.py`](./scripts/script.py)**
+[`script.py`](./scripts/scrpit.py)**
 
 The script automates Steps 5 and 6 — determining the password length and brute-forcing each character position using HTTP status code inference.
 
